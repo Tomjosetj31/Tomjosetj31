@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on flask rest api<br> I’m looking to collaborate on flask or django projects<br> I’m currently learning Flutter<br>
+I am currently working on flask rest api<br> I’m looking to collaborate on flask or django projects<br> I’m currently learning TypeScript<br>
 
 
 ## 🌐 Socials:
